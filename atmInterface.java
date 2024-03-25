@@ -64,7 +64,6 @@ public class atmInterface {
                 objATM.runATM();
             }else{
                 System.out.println("You Enter Incorrect Pin.");
-                System.exit(0);
             }
     }
 }
