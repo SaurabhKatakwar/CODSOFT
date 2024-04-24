@@ -6,8 +6,9 @@ Welcome to CODSOFT! We are a vibrant and diverse community dedicated to creating
 
 At CODSOFT, we believe in the power of leadership to drive positive change. That's why we provide platforms and resources for our community members to develop their leadership skills. Through mentorship programs, workshops, and collaborative projects, we empower individuals to take on leadership roles and make a meaningful impact in their respective fields.
 
-**Task Descriptions
-Task 1: Number Guessing Game**
+**Task Descriptions**
+
+**Task 1: Number Guessing Game**
 
 1. Generate a random number within a specified range, such as 1 to 100.
 2. Prompt the user to enter their guess for the generated number.
