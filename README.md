@@ -1,50 +1,50 @@
-**CODSOFT**
+# CODSOFT
+<html>
+This repository contains the tasks and projects completed during the CODSOFT virtual internship program. The internship focuses on Java programming and includes various practical assignments.</br>
 
-Welcome to CODSOFT! We are a vibrant and diverse community dedicated to creating opportunities for growth, learning, and leadership development. Our aim is to foster a supportive environment where individuals with similar objectives and ultimate goals can come together to make a difference.
+<h3>Features</h3>
+<ul>
+  <li>Java Programming Tasks:</li> Includes multiple tasks designed to enhance Java programming skills.</br>
+  <li>Practical Projects:</li> Real-world projects such as a Number Game, Word Counter, and Student Management System.</br>
+  <li>Learning Resources:</li> Provides resources and guidance for completing the tasks.</br>
+</ul>
+<h3>Technologies Used</h3>
+<ul>
+  <li>Java: Primary programming language used for the tasks.</li>
+  <li>Git: Version control system for managing the project.</li>
+</ul>
+<h3>Getting Started</h3>
+<b>Prerequisites</b>
+<ul>
+  <li>Java Development Kit (JDK) installed</li>
+  <li>Git installed</li>
+</ul>
+<h3>Installation</h3>
+<ol>
+  <li>Clone the repository:</li>
+  
+  ```
+    https://github.com/SaurabhKatakwar/CODSOFT.git
+  ```
+  <li>Navigate to the project directory:</li>
 
-**About Us**
+  ```
+    CODSOFT
+  ```
 
-At CODSOFT, we believe in the power of leadership to drive positive change. That's why we provide platforms and resources for our community members to develop their leadership skills. Through mentorship programs, workshops, and collaborative projects, we empower individuals to take on leadership roles and make a meaningful impact in their respective fields.
+  <li>Open the project in your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse).</li>
+</ol>
+<h3>Usage</h3>
+Open the project in your Java IDE.
+Navigate to the task you want to run (e.g., Task1.java).
+Run the Java file to execute the task.
 
-**Task Descriptions**
+<h3>Contributing</h3>
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-**Task 1: Number Guessing Game**
+<h3>Contact</h3>
+For any questions or feedback, please reach out to Saurabh Katakwar.
 
-1. Generate a random number within a specified range, such as 1 to 100.
-2. Prompt the user to enter their guess for the generated number.
-3. Compare the user's guess with the generated number and provide feedback on whether the guess is correct, too high, or too low.
-4. Repeat steps 2 and 3 until the user guesses the correct number.
+Feel free to modify this content as needed! If you have any specific details you’d like to add or change, let me know.
 
-**Additional Details:**
-
-1. Limit the number of attempts the user has to guess the number.
-2. Add the option for multiple rounds, allowing the user to play again.
-3. Display the user's score, which can be based on the number of attempts taken or rounds won.
-
-**Task 2: Student Grade Calculator**
-
-Input:
-1. Take marks obtained (out of 100) in each subject.
-
-**Process:**
-
-1. Calculate Total Marks: Sum up the marks obtained in all subjects.
-2. Calculate Average Percentage: Divide the total marks by the total number of subjects to get the average percentage.
-3. Grade Calculation: Assign grades based on the average percentage achieved.
-
-Output:
-
-1. Display Results: Show the total marks, average percentage, and the corresponding grade to the user.
-
-**Task 3: ATM Interface**
-
-1. Create a class to represent the ATM machine.
-2. Design the user interface for the ATM, including options such as withdrawing, depositing, and checking the balance.
-3. Implement methods for each option, such as withdraw(amount), deposit(amount), and checkBalance().
-4. Create a class to represent the user's bank account, which stores the account balance.
-5. Connect the ATM class with the user's bank account class to access and modify the account balance.
-6. Validate user input to ensure it is within acceptable limits (e.g., sufficient balance for withdrawals).
-7. Display appropriate messages to the user based on their chosen options and the success or failure of their transactions.
-
-
-Thank you for being a part of CODSOFT! Let's learn, grow, and lead together.
+</html>
